@@ -1,0 +1,10 @@
+# Colors taken from https://github.com/junegunn/seoul256.vim/blob/master/urxvt/seoul256-light
+[Scheme]
+Name=seoul256light
+ColorForeground=#4e4e4e
+ColorBackground=#dadada
+ColorCursor=#4e4e4e
+TabActivityColor=#df5f87
+ColorPalette=#4e4e4e;#af5f5f;#5f885f;#af8760;#5f87ae;#875f87;#5f8787;#e4e4e4;#3a3a3a;#870100;#005f00;#d8865f;#0087af;#87025f;#008787;#eeeeee
+ColorBold=#3a3a3a
+ColorBoldUseDefault=FALSE
