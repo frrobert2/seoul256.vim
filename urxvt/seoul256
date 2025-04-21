@@ -18,6 +18,8 @@ URxvt*color12: #add4fb
 URxvt*color13: #ffafaf
 URxvt*color14: #87d7d7
 URxvt*color15: #e4e4e4
+!This setting determines the color of the cursor's physical shape (e.g., block, underline) when it's in the terminal.
 URxvt*cursorColor: #d0d0d0
+!This setting determines the color of the text that the cursor is highlighting when the user is selecting text with the mouse.
 URxvt*cursorColor2: #3a3a3a
 URxvt*colorBD: #e4e4e4
